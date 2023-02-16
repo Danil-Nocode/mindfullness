@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>622912582763-nseihgug45ndrhtp84htn6urbguiv9v9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.622912582763-nseihgug45ndrhtp84htn6urbguiv9v9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>622912582763-hf7a9jn3mh40k441i4t3t4q7eopgu80n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcNrKv1yTxEbwUbiWGprpFPogDWLuTdp8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>622912582763</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.mindfullness</string>
+	<key>PROJECT_ID</key>
+	<string>mindfulness-io</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mindfulness-io.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:622912582763:ios:ff4fd31bfbdd9d81d52d2e</string>
+</dict>
+</plist>
