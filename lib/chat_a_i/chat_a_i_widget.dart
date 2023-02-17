@@ -18,9 +18,7 @@ class ChatAIWidget extends StatefulWidget {
   _ChatAIWidgetState createState() => _ChatAIWidgetState();
 }
 
-// const apiKey = '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';
-// const apiKey = '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';
-const apiKey = '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';
+const apiKey = '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';
 
 class _ChatAIWidgetState extends State<ChatAIWidget> {
   late ChatAIModel _model;
